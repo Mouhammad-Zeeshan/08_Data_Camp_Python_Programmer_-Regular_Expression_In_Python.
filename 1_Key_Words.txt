@@ -1,0 +1,62 @@
+08: Regualar Expression inPython.
+
+
+Chapter-01:
+1. string.lower()
+2. string.upper()
+3. capitalize()
+4. .split(sep= " " , maxsplit = 2)
+5. .rsplit(sep = " ", maxsplit = 2)
+6. \n
+7. \r
+8. .join()
+9. .strip
+10. .find()
+11. .index()
+12. .count()
+13. .replace()
+
+
+Chapter-02:
+1. Positional formating
+2. f "String"
+3. format specifiers 
+4. :e for scientific notation
+5. :d for digit
+6. :f for float
+7. Template module
+
+
+Chapter-03:
+
+1. r is always advisible to use it in regex
+2. \d shows digit in regex
+3. \s shows a white space in regex
+4. \w shows a word character in regex
+5. .findall 
+6. .split
+7. .sub in regex
+8. meta characters:
+  \d for digit
+  \D for non digit
+   \w for word (digit or non digit)
+   \W for non word (like @,$,!, . . . etc).
+   \s for whitespace
+   \S for not whitespace
+   \
+9. + metacharacters is used as quantifier (one or more).
+10. * metacharacters is used as quantifier (zero or more). 
+11. ? metacharacter is used as quantifier (zero or one time).
+12. .search 
+13. .match
+14 | this use as for OR logic
+
+Chapter-04:
+
+1. 
+2.
+
+
+ 
+
+ 
